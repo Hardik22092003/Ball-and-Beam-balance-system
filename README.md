@@ -56,10 +56,8 @@ A self-stabilizing Ball and Beam control system built using Arduino, infrared (I
 - Real-time beam angle, servo position, and ball location printed to Serial Monitor.
 - Optional: Interface OLED or Serial Plotter for live visualization.
 
-## 📽️ Demo
-
-📷 *Demo video or image coming soon!*  
-*(You can upload a video or image GIF and update this section with the link)*
+📷 *Demo image !*  
+![WhatsApp Image 2025-04-22 at 16 00 59_eca822fa](https://github.com/user-attachments/assets/8b19c112-9fc8-436d-85e5-369d41c7531d)
 
 ## 🚀 Future Enhancements
 
